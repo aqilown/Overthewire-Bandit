@@ -25,7 +25,7 @@
 * **Steps:**
   1. Wrap the filename in quotes or use backslashes to escape the spaces:
       cat "./ --spaces in this filename--"
-      # OR
+      ## OR
       cat --\ spaces\ in\ this\ filename--
 
 ## Level 3 -> Level 4
